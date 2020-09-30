@@ -5,8 +5,8 @@
 ![fork](https://img.shields.io/github/forks/vngarg/Movie-Finder)
 
 # Movie-Finder
-1. For all the movie lovers who find very difficult to search for a movie to watch. No you can easily get all the latest and top movies, watch trailers and also see their cast and IMDB rating all at one place.
-2. Go to the end and download the APK for the Movie-Finder and enjoy the show.
+1. For all the movie lovers who find difficult to search a movie to watch, Now you can easily get all the latest and top movies, watch trailers and also see their cast and IMDB rating, all at one place!
+2. Scroll down and download the APK of the Movie-Finder and enjoy the show.
 
 ## App Demo
 ![App Demo](assets/recording/MovieFinderRecording.gif)
@@ -19,7 +19,7 @@
 - Get IMDB ratings of the movies
 - Cast of the movie and similar movies are available
 - Get all the current top movies
-- Get all the trending actors/actresses in the industry 
+- Get the list of all the trending actors/actresses in the industry 
 
 ## Dependencies
 
@@ -34,4 +34,4 @@
 - `youtube_player_flutter: ^6.1.0+7`
 
 ### APK
-- [Click Here](https://drive.google.com/file/d/1--mQe_Lc0k2NIKHB9kOtd7XS5pfndWbg/view?usp=sharing)
+- [Click Here](https://drive.google.com/file/d/1--mQe_Lc0k2NIKHB9kOtd7XS5pfndWbg/view?usp=sharing) to download and install the apk in your android device.
