@@ -34,4 +34,4 @@
 - `youtube_player_flutter: ^6.1.0+7`
 
 ### APK
-- [Click Here](https://drive.google.com/file/d/1--mQe_Lc0k2NIKHB9kOtd7XS5pfndWbg/view?usp=sharing)
+- [Click Here](https://drive.google.com/file/d/1--mQe_Lc0k2NIKHB9kOtd7XS5pfndWbg/view?usp=sharing) to download the apk for your android devices.
